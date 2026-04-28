@@ -1,5 +1,5 @@
 {
   "name": "Remix: UniHelper Kazakhstan",
-  "description": "AI-powered assistant for students in Kazakhstan. Get information about universities, grants, and UNT preparation.",
+  "description": "AI-powered assistant for students and pupils in Kazakhstan. Separate modes for school applicants (UNT, grants) and university students (SRS, RK, Platonus).",
   "requestFramePermissions": []
 }
